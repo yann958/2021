@@ -1,0 +1,12 @@
+name="yannn"
+print(name.title())
+name="yannn"
+print(name.upper())
+name="yannn"
+print(name.lower())
+print(3+5)
+print(2*4)
+print(10-2)
+print(16/2)
+a=2
+print(f"我最喜欢的数是{a}")
